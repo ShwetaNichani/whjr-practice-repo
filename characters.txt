@@ -5,3 +5,4 @@ Mickey mouse
 Person 
 Donald duck 
 Kid
+Minnie mouse
